@@ -1,5 +1,0 @@
-A partir del archivo texto "dict.txt" construir un archivo de indices y un archivo binario de datos.
-
-El archivo de indices contendrá las palabras y su posición dentro del archivo secuencial, empezando en 0.
-
-El archivo de datos contendrá el registro con la palabra de 20 caracteres (bytes) y el significado de 40 caracteres (bytes).
