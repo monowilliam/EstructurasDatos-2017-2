@@ -1,0 +1,6 @@
+barco 1 2 b
+barco 1 2 b
+barco 1 2 b
+submarino 1 3 s
+submarino 1 3 s
+portaaviones 0 4 p
